@@ -1,0 +1,26 @@
+Get Methods
+Query Selectors
+Window(prompt, alert)
+settimeout vs setinterval
+
+Get Methods:
+tagname
+classname
+id=> ID should be unique for every element
+array, array, exact element
+
+
+getElementById:
+=> this method is applicable only if 
+
+getElementByClass:
+
+getElementByTagname:
+
+
+
+
+Query Selector:
+=> It will return onlt the first occurence of an HTML Element.
+Query Selector All:
+=> It will return all the occurence of the all elements in an array.
